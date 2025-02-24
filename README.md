@@ -21,4 +21,20 @@ RomeniumToken is a **privacy-focused ERC-20** token designed for anonymous trans
    ```sh
    git clone https://github.com/Romenium/RomeniumToken.git
    cd RomeniumToken
+2. Install dependencies:  
+   ```sh
+   npm install
+3. Compile contracts:  
+   ```sh
+   npx hardhat compile
+4. Run tests:  
+   ```sh
+   npx hardhat test
+## 📜 License  
+RomaniumToken is open-source under the **MIT License**.  
+
+## 🔗 Connect with Us  
+📢 Telegram: [Join our community](https://t.me/romenium)  
+🌐 Website: [Coming Soon]  
+📖 Whitepaper: [Coming Soon]  
 
